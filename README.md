@@ -57,11 +57,15 @@
   🔗 https://surajkumar9113.github.io/sidcup-golf-family/
 </p>
 
+---
+
 ### 🎨 Sundown Studio
 <p align="center">
   <img src="./assets/sundown-demo.gif" width="800" />
   🔗 https://surajkumar9113.github.io/Sundown-Studio/
 </p>
+
+---
 
 ### 📝 To-Do List App
 <p align="center">
@@ -69,11 +73,14 @@
   🔗 https://surajkumar9113.github.io/to-do-list/
 </p>
 
+---
+
 ### 🐉 Son-Goku-Saiyan-Warrior
 <p align="center">
   <img src="./assets/todo-demo.gif" width="700" />
   🔗 https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/
 </p>
+
 ---
 
 ## 📈 What I’m Working On
