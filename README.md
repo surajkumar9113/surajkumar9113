@@ -5,7 +5,7 @@
   />
 </p>
 
-<h2 align="center">💻 Front-End Developer | HTML • CSS • JavaScript</h2>
+<h2 align="center">💻 Front-End Developer | HTML • CSS • JavaScript • PHP(Basic) • MYSQL(Basic)</h2>
 
 <p align="center">
 🚀 Passionate about building clean, responsive & user-friendly web interfaces
