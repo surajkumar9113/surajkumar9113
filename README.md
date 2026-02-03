@@ -1,8 +1,6 @@
 <!-- 🌈 Animated Gradient Header -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Suraj%20Kumar&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Front-End%20Developer%20|%20UI%20Builder&descAlignY=55" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Suraj%20Kumar&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Front-End%20Developer%20|%20UI%20Builder&descAlignY=55"/>
 </p>
 
 <h2 align="center">💻 Front-End Developer | HTML • CSS • JavaScript</h2>
@@ -49,35 +47,61 @@
 
 ---
 
-## 🚀 Featured Projects (With GIF Previews)
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</p>
 
-### ⛳ Sidcup Golf Family
+---
+
+## 🌙 Dark / Light Theme Preview
+<p align="center">
+  <img src="./assets/theme-toggle.gif" width="700" alt="Dark Light Mode Preview" />
+</p>
+
+---
+
+## 🧠 Case Study: Sidcup Golf Family
+
+### 📌 Problem
+Create a **modern, premium golf club website** with smooth animations and responsive layout.
+
+### 💡 Solution
+- Dark-themed UI with bold typography  
+- Smooth scroll & hover animations  
+- Fully responsive using Flexbox & Grid  
+
+### 🛠 Tech Used
+HTML • CSS • JavaScript • GSAP  
+
+### 🎥 Preview
 <p align="center">
   <img src="./assets/sidcup-demo.gif" width="800" />
 </p>
-🔗 https://surajkumar9113.github.io/sidcup-golf-family/
+
+🔗 Live: https://surajkumar9113.github.io/sidcup-golf-family/
 
 ---
 
-### 🎨 Sundown Studio
+## 🧠 Case Study: Sundown Studio
+
+### 📌 Problem
+Design a **creative agency landing page** with strong visual identity.
+
+### 💡 Solution
+- Minimal layout with bold visuals  
+- Scroll-based animations  
+- Performance-focused responsive UI  
+
+### 🛠 Tech Used
+HTML • CSS • JavaScript  
+
+### 🎥 Preview
 <p align="center">
   <img src="./assets/sundown-demo.gif" width="800" />
 </p>
-🔗 https://surajkumar9113.github.io/Sundown-Studio/
 
----
-
-### 📝 To-Do List App
-<p align="center">
-  <img src="./assets/todo-demo.gif" width="700" />
-</p>
-
----
-
-## 📈 What I’m Working On
-- 📱 Responsive UI projects
-- ⚙️ JavaScript logic & DOM mastery
-- 🧾 Portfolio-ready websites
+🔗 Live: https://surajkumar9113.github.io/Sundown-Studio/
 
 ---
 
