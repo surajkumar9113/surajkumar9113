@@ -1,49 +1,99 @@
-# 👋 Hi, I'm Suraj Kumar
+<!-- 🌈 Animated Gradient Header -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Suraj%20Kumar&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Front-End%20Developer%20|%20UI%20Builder&descAlignY=55" 
+  />
+</p>
 
-💻 Front-End Developer | HTML • CSS • JavaScript
-🚀 Passionate about building clean, responsive, and user-friendly web interfaces.
+<h2 align="center">💻 Front-End Developer | HTML • CSS • JavaScript</h2>
 
-👨‍💻 About Me
+<p align="center">
+🚀 Passionate about building clean, responsive & user-friendly web interfaces
+</p>
 
-🌱 Currently improving my JavaScript & Front-End skills
-🧠 Love turning designs into pixel-perfect websites
-🛠️ Focused on clean code, responsiveness, and performance
-🎯 Goal: Build real-world projects and grow as a developer
+---
 
-🧰 Tech Stack
-🌐 HTML5
-🎨 CSS3
-⚡ JavaScript
-🌐PHP
-🎨 MYSQl
-🧩 Font Awesome
-📍 GitHub Pages
+## 👨‍💻 About Me
+- 🌱 Improving **JavaScript & Front-End skills**
+- 🎨 Turning designs into **pixel-perfect UIs**
+- 🛠️ Focused on **clean code, responsiveness & performance**
+- 🎯 Goal: Build real-world projects & grow as a developer
 
-🚀 Featured Projects
-🔢 Smart Age Calculator
-🌍 Adventure Website
-📝 To-Do List App
-🏫 My Coding Institute Website
-🏫 sidcup-golf-family
-🏫 Sundown-Studio/
+---
 
-🌐 Live Projects
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode" />
+</p>
 
-🔗 Sidcup Golf Family
-https://surajkumar9113.github.io/sidcup-golf-family/
+---
 
-🔗 Sundown Studio
-https://surajkumar9113.github.io/Sundown-Studio/
+## 🏆 Skills Progress
+<p align="center">
 
-📈 What I’m Working On
+![HTML](https://img.shields.io/badge/HTML-90%25-orange)
+![CSS](https://img.shields.io/badge/CSS-85%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
+![PHP](https://img.shields.io/badge/PHP-60%25-purple)
+![MySQL](https://img.shields.io/badge/MySQL-65%25-lightgrey)
 
-Building responsive UI projects
-Improving JavaScript logic
-Creating portfolio-ready websites
+</p>
 
-🤝 Connect With Me
-💼 GitHub: https://github.com/surajkumar9113
+---
 
-🌐 Portfolio: (add later)
+## 🎯 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajkumar9113&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkumar9113&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-⭐ If you like my work, consider starring my repositories!
+---
+
+## 🚀 Featured Projects (With GIF Previews)
+
+### ⛳ Sidcup Golf Family
+<p align="center">
+  <img src="./assets/sidcup-demo.gif" width="800" />
+</p>
+🔗 https://surajkumar9113.github.io/sidcup-golf-family/
+
+---
+
+### 🎨 Sundown Studio
+<p align="center">
+  <img src="./assets/sundown-demo.gif" width="800" />
+</p>
+🔗 https://surajkumar9113.github.io/Sundown-Studio/
+
+---
+
+### 📝 To-Do List App
+<p align="center">
+  <img src="./assets/todo-demo.gif" width="700" />
+</p>
+
+---
+
+## 📈 What I’m Working On
+- 📱 Responsive UI projects
+- ⚙️ JavaScript logic & DOM mastery
+- 🧾 Portfolio-ready websites
+
+---
+
+## 🤝 Connect With Me
+- 💼 GitHub: https://github.com/surajkumar9113  
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories  
+<br/>
+🔥 Built with consistency & passion
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
