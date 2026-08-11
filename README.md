@@ -2,115 +2,230 @@
 
 ### 💻 Junior Front-End Developer | JavaScript | React.js
 
-I'm a Front-End Developer passionate about creating responsive, user-friendly, and modern web experiences. I enjoy turning ideas into clean and functional web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Junior+Front-End+Developer;JavaScript+%7C+React.js+Developer;Building+Modern+Web+Experiences;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suraj1594/Suraj1594/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Junior Front-End Developer
-- 🌐 Experienced with HTML5, CSS3, JavaScript and Bootstrap
-- ⚛️ Currently learning and building projects with React.js
-- 🐘 Basic knowledge of PHP and MySQL
-- 🔧 Familiar with Git and GitHub
-- 📱 Focused on Responsive Web Design
-- 🚀 Open to Front-End Developer opportunities
+```javascript
+const suraj = {
+    role: "Junior Front-End Developer",
+    location: "India",
+    experience: "1+ Year in HTML Development",
+
+    frontend: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "React.js"
+    ],
+
+    backend: [
+        "PHP",
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
+
+    currentlyLearning: [
+        "React.js",
+        "REST APIs",
+        "Advanced JavaScript",
+        "React Hooks"
+    ],
+
+    goal: "Build modern, responsive and user-friendly web applications 🚀"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### 🎨 Frontend
 
-### Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 🗄️ Backend & Database
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
 
-## 🚀 Featured Projects
+### 🔧 Tools & Technologies
 
-### 🌐 Personal Portfolio
-A responsive personal portfolio website showcasing my skills, projects, and experience.
-
-**Tech:** HTML5, CSS3, JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-### 🎨 Sundown Studio
-A modern and responsive website focused on clean UI, animations, and responsive layouts.
+## 📊 GitHub Stats
 
-**Tech:** HTML5, CSS3, JavaScript
-
----
-
-### 🎬 Netflix Frontend Clone
-A responsive Netflix-inspired frontend project created to practice modern layouts and UI development.
-
-**Tech:** HTML5, CSS3, JavaScript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj1594&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj1594&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
-### 🧮 Smart Age Calculator
-A JavaScript-based application that calculates age dynamically with a responsive user interface.
+## 🔥 GitHub Streak
 
-**Tech:** HTML5, CSS3, JavaScript
-
----
-
-### ✅ To-Do List
-A simple task management application built to practice JavaScript DOM manipulation and browser storage.
-
-**Tech:** HTML5, CSS3, JavaScript
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Suraj1594&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🐉 Son Goku Saiyan Warrior
-An interactive and responsive web project focused on creative UI design and frontend development.
+# 🚀 Featured Projects
 
-**Tech:** HTML5, CSS3, JavaScript
+## 🌐 Personal Portfolio
 
----
+A responsive personal portfolio website showcasing my skills, projects, experience, and frontend development journey.
 
-## 📚 Currently Learning
-
-- ⚛️ React.js
-- 🔌 REST APIs
-- 🟨 Advanced JavaScript
-- 🧩 React Hooks
-- 📦 Modern Front-End Development
-- 🚀 Building production-ready web applications
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 🎯 Career Goal
+## 🎨 Sundown Studio
 
-My goal is to grow as a professional Front-End Developer and build fast, accessible, responsive, and user-friendly web applications.
+A modern frontend website focused on creative UI, smooth animations, responsive layouts, and interactive user experiences.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 🤝 Let's Connect
+## 🎬 Netflix Frontend Clone
 
-💼 **LinkedIn:** [Add your LinkedIn URL here](YOUR_LINKEDIN_URL)
+A Netflix-inspired frontend project created to practice responsive layouts, UI components, and modern frontend development techniques.
 
-🌐 **Portfolio:** [Visit my Portfolio](YOUR_PORTFOLIO_URL)
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
 
-📧 **Email:** YOUR_EMAIL
+---
+
+## 🧮 Smart Age Calculator
+
+A responsive JavaScript application that dynamically calculates a user's age with a clean and simple interface.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+## ✅ To-Do List
+
+A task management application created to practice JavaScript DOM manipulation, event handling, and browser storage.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+## 🐉 Son Goku Saiyan Warrior
+
+An interactive and responsive creative web project designed to improve frontend UI development, animations, and user interaction.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+# 📚 Currently Learning
+
+```text
+⚛️ React.js
+🔌 REST APIs
+🟨 Advanced JavaScript
+🧩 React Hooks
+📦 Modern Front-End Development
+🚀 Production-Ready Web Applications
+```
+
+---
+
+# 🎯 My Goal
+
+> To become a professional Front-End Developer and build fast, accessible, responsive, and user-friendly web applications.
+
+I believe in **learning by building**, improving my skills through real-world projects, and continuously exploring modern web technologies.
+
+---
+
+# 📈 My Development Journey
+
+```text
+HTML & CSS
+     ↓
+JavaScript
+     ↓
+Bootstrap
+     ↓
+Responsive Web Design
+     ↓
+React.js
+     ↓
+REST APIs
+     ↓
+Modern Front-End Development
+     ↓
+🚀 Production-Ready Applications
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
 
 ---
 
 ## ⭐ Thanks for Visiting My Profile!
 
-If you find my projects useful, feel free to ⭐ star the repositories and connect with me.
+<p align="center">
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+**If you like my projects, consider giving them a ⭐**
+
+### Keep Learning • Keep Building • Keep Growing 🚀
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
