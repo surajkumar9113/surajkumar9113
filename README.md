@@ -2,85 +2,124 @@
 
 ### 💻 Junior Front-End Developer | JavaScript | React.js
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Junior+Front-End+Developer;JavaScript+%7C+React.js+Developer;Building+Modern+Web+Experiences;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<p align="left">
+  <img src="./assets/profile.jpg" alt="Suraj Kumar" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suraj1594/Suraj1594/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Suraj1594" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```javascript
-const suraj = {
-    role: "Junior Front-End Developer",
-    location: "India",
-    experience: "1+ Year in HTML Development",
+I'm a **Junior Front-End Developer** passionate about building modern, responsive, and user-friendly web applications.
 
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Bootstrap",
-        "React.js"
-    ],
+I enjoy turning ideas into clean and interactive interfaces using **HTML, CSS, JavaScript, Bootstrap, and React.js**.
 
-    backend: [
-        "PHP",
-        "MySQL"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    currentlyLearning: [
-        "React.js",
-        "REST APIs",
-        "Advanced JavaScript",
-        "React Hooks"
-    ],
-
-    goal: "Build modern, responsive and user-friendly web applications 🚀"
-};
-```
+* 💻 Front-End Developer
+* 🌱 Currently improving my **JavaScript & React.js** skills
+* 🎨 Focused on responsive and accessible UI
+* 🔌 Learning **REST APIs & modern web development**
+* 🛠️ Familiar with PHP & MySQL fundamentals
+* 🚀 Interested in building production-ready applications
+* 🤝 Open to **Junior Front-End Developer opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Tech Stack
 
-### 🎨 Frontend
+### Front-End
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
-### 🗄️ Backend & Database
+### Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+React.js
+JavaScript ES6+
+REST APIs
+React Hooks
+Frontend Architecture
+Responsive Web Design
+Modern UI Development
+Production-Ready Web Applications
+```
+
+---
+
+## ⭐ Featured Projects
+
+### 🌐 Personal Portfolio
+
+A responsive personal portfolio website showcasing my skills, projects, experience, and development journey.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+---
+
+### 🎬 Netflix Front-End Clone
+
+A responsive Netflix-inspired front-end project created to practice modern UI design, layouts, components, and responsive web development.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+---
+
+### 🎨 Sundown Studio
+
+A creative front-end website focused on modern layouts, smooth animations, responsive design, and interactive user experiences.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+---
+
+### 🧮 Smart Age Calculator
+
+A responsive JavaScript application that dynamically calculates a user's age with a simple and user-friendly interface.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+---
+
+### ✅ To-Do List
+
+A task management application created to practice JavaScript DOM manipulation, events, and browser storage.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+---
+
+### 🐉 Son Goku Saiyan Warrior
+
+An interactive creative web project designed to practice animations, responsive layouts, UI effects, and front-end development.
+
+**Tech:** HTML5 · CSS3 · JavaScript
 
 ---
 
@@ -101,131 +140,72 @@ const suraj = {
 
 ---
 
-# 🚀 Featured Projects
+## 🐍 Contribution Snake
 
-## 🌐 Personal Portfolio
-
-A responsive personal portfolio website showcasing my skills, projects, experience, and frontend development journey.
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suraj1594/Suraj1594/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
-## 🎨 Sundown Studio
+## 🎯 My Goal
 
-A modern frontend website focused on creative UI, smooth animations, responsive layouts, and interactive user experiences.
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
----
-
-## 🎬 Netflix Frontend Clone
-
-A Netflix-inspired frontend project created to practice responsive layouts, UI components, and modern frontend development techniques.
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
----
-
-## 🧮 Smart Age Calculator
-
-A responsive JavaScript application that dynamically calculates a user's age with a clean and simple interface.
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
----
-
-## ✅ To-Do List
-
-A task management application created to practice JavaScript DOM manipulation, event handling, and browser storage.
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
----
-
-## 🐉 Son Goku Saiyan Warrior
-
-An interactive and responsive creative web project designed to improve frontend UI development, animations, and user interaction.
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
----
-
-# 📚 Currently Learning
-
-```text
-⚛️ React.js
-🔌 REST APIs
-🟨 Advanced JavaScript
-🧩 React Hooks
-📦 Modern Front-End Development
-🚀 Production-Ready Web Applications
-```
-
----
-
-# 🎯 My Goal
-
-> To become a professional Front-End Developer and build fast, accessible, responsive, and user-friendly web applications.
+> To become a professional Front-End Developer who builds fast, accessible, responsive, and user-friendly web applications.
 
 I believe in **learning by building**, improving my skills through real-world projects, and continuously exploring modern web technologies.
 
 ---
 
-# 📈 My Development Journey
+## 🛣️ My Development Journey
 
 ```text
-HTML & CSS
-     ↓
-JavaScript
-     ↓
+HTML5
+   ↓
+CSS3
+   ↓
+JavaScript ES6+
+   ↓
 Bootstrap
-     ↓
+   ↓
 Responsive Web Design
-     ↓
+   ↓
 React.js
-     ↓
+   ↓
 REST APIs
-     ↓
+   ↓
 Modern Front-End Development
-     ↓
-🚀 Production-Ready Applications
+   ↓
+Production-Ready Applications 🚀
 ```
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Suraj1594">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ⭐ Thanks for Visiting My Profile!
+## ⚡ Fun Fact
 
-<p align="center">
-
-**If you like my projects, consider giving them a ⭐**
-
-### Keep Learning • Keep Building • Keep Growing 🚀
-
-</p>
+```text
+Code → Build → Break → Debug → Learn → Improve → Repeat 🚀
+```
 
 ---
 
+<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
 </p>
