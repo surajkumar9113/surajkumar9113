@@ -1,211 +1,258 @@
-# 👋 Hi, I'm Suraj Kumar
+<div align="center">
 
-### 💻 Junior Front-End Developer | JavaScript | React.js
+# 👋 Hi, I'm **Suraj Kumar**
 
-<p align="left">
-  <img src="./assets/profile.jpg" alt="Suraj Kumar" width="150" height="150" style="border-radius: 50%;" />
-</p>
+### 💻 Junior Front-End Developer
 
-<p>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Suraj1594" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**JavaScript • React.js • HTML5 • CSS3 • Bootstrap**
+
+<br>
+
+<img src="./assets/profile.jpg" alt="Suraj Kumar" width="160" height="160">
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Junior Front-End Developer** passionate about building modern, responsive, and user-friendly web applications.
+I'm a **Junior Front-End Developer** focused on creating modern, responsive and user-friendly web experiences.
 
-I enjoy turning ideas into clean and interactive interfaces using **HTML, CSS, JavaScript, Bootstrap, and React.js**.
+I enjoy transforming ideas into clean interfaces and continuously improving my development skills by building real-world projects.
 
-* 💻 Front-End Developer
-* 🌱 Currently improving my **JavaScript & React.js** skills
-* 🎨 Focused on responsive and accessible UI
-* 🔌 Learning **REST APIs & modern web development**
-* 🛠️ Familiar with PHP & MySQL fundamentals
-* 🚀 Interested in building production-ready applications
-* 🤝 Open to **Junior Front-End Developer opportunities**
+```text
+💻 Front-End Development
+⚡ JavaScript & React.js
+🎨 Responsive UI Development
+🔌 REST API Integration
+🗄️ PHP & MySQL Fundamentals
+🌱 Continuous Learning
+```
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Front-End
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,mysql" />
 
-### Tools & Technologies
+### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+Responsive portfolio website showcasing my skills, projects and development journey.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 🎬 Netflix Clone
+
+Netflix-inspired responsive front-end interface built to practice modern UI development.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 Sundown Studio
+
+Creative website featuring responsive layouts, animations and interactive UI elements.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 🧮 Smart Age Calculator
+
+JavaScript-based application that calculates age dynamically with a clean interface.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ✅ To-Do List
+
+Task management application using DOM manipulation, events and browser storage.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 🐉 Son Goku Warrior
+
+Creative interactive website focused on animations, effects and responsive design.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170">
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-React.js
-JavaScript ES6+
-REST APIs
-React Hooks
-Frontend Architecture
-Responsive Web Design
-Modern UI Development
-Production-Ready Web Applications
-```
+<div align="center">
 
----
+|     Technology    | Focus                          |
+| :---------------: | :----------------------------- |
+|    ⚛️ React.js    | Components, Props & Hooks      |
+|   🟨 JavaScript   | ES6+, DOM & Async JavaScript   |
+|    🔌 REST APIs   | API Integration                |
+| 🎨 UI Development | Responsive & Modern Interfaces |
+|    🚀 Front-End   | Production-ready Applications  |
 
-## ⭐ Featured Projects
-
-### 🌐 Personal Portfolio
-
-A responsive personal portfolio website showcasing my skills, projects, experience, and development journey.
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
----
-
-### 🎬 Netflix Front-End Clone
-
-A responsive Netflix-inspired front-end project created to practice modern UI design, layouts, components, and responsive web development.
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
----
-
-### 🎨 Sundown Studio
-
-A creative front-end website focused on modern layouts, smooth animations, responsive design, and interactive user experiences.
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
----
-
-### 🧮 Smart Age Calculator
-
-A responsive JavaScript application that dynamically calculates a user's age with a simple and user-friendly interface.
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
----
-
-### ✅ To-Do List
-
-A task management application created to practice JavaScript DOM manipulation, events, and browser storage.
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
----
-
-### 🐉 Son Goku Saiyan Warrior
-
-An interactive creative web project designed to practice animations, responsive layouts, UI effects, and front-end development.
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj1594&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj1594&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suraj1594&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suraj1594/Suraj1594/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+</div>
 
 ---
 
 ## 🎯 My Goal
 
-> To become a professional Front-End Developer who builds fast, accessible, responsive, and user-friendly web applications.
+> **Build fast, accessible, responsive and user-friendly web applications while continuously growing as a Front-End Developer.**
 
-I believe in **learning by building**, improving my skills through real-world projects, and continuously exploring modern web technologies.
+I believe the best way to learn development is by **building real projects, solving problems and improving every day.**
 
 ---
 
-## 🛣️ My Development Journey
+## 🛣️ Development Journey
 
-```text
-HTML5
-   ↓
-CSS3
-   ↓
-JavaScript ES6+
-   ↓
-Bootstrap
-   ↓
-Responsive Web Design
-   ↓
-React.js
-   ↓
-REST APIs
-   ↓
-Modern Front-End Development
-   ↓
-Production-Ready Applications 🚀
-```
+<div align="center">
+
+**HTML5**
+↓
+**CSS3**
+↓
+**JavaScript ES6+**
+↓
+**Bootstrap**
+↓
+**Responsive Web Design**
+↓
+**React.js**
+↓
+**REST APIs**
+↓
+**Modern Front-End Development**
+↓
+🚀 **Production-Ready Applications**
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Suraj1594">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-```text
-Code → Build → Break → Debug → Learn → Improve → Repeat 🚀
-```
+### ⭐ Thanks for visiting my profile!
 
----
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
-<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
-
-<p align="center">
-  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
-</p>
+</div>
