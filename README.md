@@ -54,19 +54,118 @@ I’m a Junior Front-End Developer focused on building **responsive, accessible,
 
 ## ⭐ Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| 🌐 **Personal Portfolio** | Responsive portfolio website showcasing skills, projects and development journey. | HTML • CSS • JavaScript |
-| 🎬 **Netflix Clone** | Netflix-inspired responsive front-end interface with a modern UI. | HTML • CSS • JavaScript |
-| 🌅 **Sundown Studio** | Creative website focused on responsive layouts, animations and interactive UI. | HTML • CSS • JavaScript |
-| 🧮 **Smart Age Calculator** | JavaScript application that calculates age dynamically with a clean interface. | HTML • CSS • JavaScript |
-| ✅ **To-Do List** | Task management application using DOM manipulation and browser storage. | HTML • CSS • JavaScript |
-| 🟠 **Son Goku Warrior** | Creative front-end project focused on animations and responsive design. | HTML • CSS • JavaScript |
+### 🌐 Codex — Personal Portfolio
 
-> 🔗 **Tip:** Add the actual **Live Demo** and **Repository** links to each project once the URLs are finalized.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/codex.png"
+    alt="Codex Frontend Developer Portfolio"
+    width="900"
+  />
+</p>
+
+**Codex** is a modern and responsive frontend developer portfolio built to
+showcase my skills, projects, achievements, and development journey.
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `AOS` `Particles.js`
+
+<p>
+  🌐 <a href="https://surajkumar9113.github.io/Codex/">Live Demo</a>
+  &nbsp; • &nbsp;
+  📂 <a href="https://github.com/surajkumar9113/Codex">Source Code</a>
+</p>
 
 ---
 
+### 🎬 Netflix UI Clone
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/netflix.png"
+    alt="Netflix UI Clone"
+    width="900"
+  />
+</p>
+
+A responsive Netflix-inspired streaming platform interface featuring a
+modern dark-themed UI, responsive layouts, movie sections, and interactive
+hover effects.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+<p>
+  🌐 <a href="https://surajkumar9113.github.io/netflix-frontend-clone/">Live Demo</a>
+  &nbsp; • &nbsp;
+  📂 <a href="https://github.com/surajkumar9113/netflix-frontend-clone">Source Code</a>
+</p>
+
+---
+
+### 🌅 Sundown Studio
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/sundown.png"
+    alt="Sundown Studio"
+    width="900"
+  />
+</p>
+
+A creative frontend website focused on modern layouts, responsive design,
+smooth animations, and interactive UI.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+### 🧮 Smart Age Calculator
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/age-calculator.png"
+    alt="Smart Age Calculator"
+    width="700"
+  />
+</p>
+
+A JavaScript-based age calculator with dynamic calculations and a clean,
+user-friendly interface.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+### ✅ To-Do List
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/todo-list.png"
+    alt="To-Do List Application"
+    width="700"
+  />
+</p>
+
+A responsive task management application using JavaScript DOM manipulation
+and browser storage.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+### 🟠 Son Goku Warrior
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/son-goku.png"
+    alt="Son Goku Warrior Frontend Project"
+    width="900"
+  />
+</p>
+
+A creative frontend project focused on animations, visual effects,
+responsive layouts, and interactive UI.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
 ## 📊 GitHub Analytics
 
 <p>
