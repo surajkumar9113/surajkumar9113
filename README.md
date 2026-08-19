@@ -54,30 +54,33 @@ const developer = {
 ```
 <br/>
 
+<div align="center">
+
 ## 🛠️ Technical Skills
 
-**Frontend**
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=flat-square&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Responsive%20Design-20C997?style=flat-square">
 
-**Backend / API**
+### Backend / API
 
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/REST%20APIs-0D6EFD?style=flat-square">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
-**Tools**
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white">
 
+</div>
 <br/>
 
 ## 💼 Featured Projects
@@ -282,30 +285,31 @@ A modern technology and education brand concept with a clean visual identity foc
 
 <br/>
 
-### 📋 Project Summary
+## 📋 Featured Projects
 
-| Project | Tech Stack | Type | Demo |
+A selection of frontend projects demonstrating my experience with
+**responsive design, JavaScript interactions, API integration, UI development,
+and modern web layouts.**
+
+| Project | Technologies | Category | Live Demo |
 |---|---|---|---|
-| Netflix Landing Page | HTML5, CSS3, JavaScript | Streaming UI Clone | [Live Demo](https://surajkumar9113.github.io/netflix-frontend-clone/) |
-| Personal Portfolio Website | HTML5, CSS3, JavaScript | Portfolio | [Live Demo](https://surajkumar9113.github.io/suraj-portfolio/) |
-| Sundown Studio Website | HTML5, CSS3, JavaScript | Creative Agency | [Live Demo](https://surajkumar9113.github.io/Sundown-Studio/) |
-| Sidcup Family Golf Website | HTML5, CSS3, JavaScript | Business Website | [Live Demo](https://surajkumar9113.github.io/sidcup-golf-family/) |
-| Goku / Saiyan Warrior Landing Page | HTML5, CSS3, JavaScript | Landing Page | — |
-| Weather App | HTML5, CSS3, JavaScript, REST API | Web App | [Live Demo](https://surajkumar9113.github.io/Weather-Application/) |
-| Codex Institute | HTML5, CSS3, JavaScript | Brand Concept | [Live Demo](https://surajkumar9113.github.io/Codex/) |
+| 🎬 **Netflix Landing Page** | HTML5, CSS3, JavaScript | Streaming UI | [View Demo](https://surajkumar9113.github.io/netflix-frontend-clone/) |
+| 👨‍💻 **Personal Portfolio** | HTML5, CSS3, JavaScript | Portfolio | [View Demo](https://surajkumar9113.github.io/suraj-portfolio/) |
+| 🌅 **Sundown Studio** | HTML5, CSS3, JavaScript | Creative UI | [View Demo](https://surajkumar9113.github.io/Sundown-Studio/) |
+| ⛳ **Sidcup Family Golf** | HTML5, CSS3, JavaScript | Business UI | [View Demo](https://surajkumar9113.github.io/sidcup-golf-family/) |
+| 🐉 **Saiyan Warrior** | HTML5, CSS3, JavaScript | Interactive UI | — |
+| 🌦️ **Weather Application** | HTML5, CSS3, JavaScript, REST API | Web Application | [View Demo](https://surajkumar9113.github.io/Weather-Application/) |
+| 💻 **Codex Institute** | HTML5, CSS3, JavaScript | Educational UI | [View Demo](https://surajkumar9113.github.io/Codex/) |
 
 <br/>
 
 ## 🚀 Currently Learning
 
-- Advanced JavaScript
-- React.js
-- API Integration
-- Modern UI/UX
-- Responsive Web Design
-- Clean Code Practices
-- Git/GitHub Best Practices
-
+- ⚛️ **React.js** — Component-based frontend development
+- 🐘 **PHP** — Backend development & server-side programming
+- 📊 **Microsoft Excel** — Data handling & productivity
+- 🔗 **API Integration** — Working with REST APIs
+- 🧩 **Modern UI Development** — Building responsive interfaces
 <br/>
 
 ## 📊 GitHub Stats
@@ -315,15 +319,24 @@ A modern technology and education brand concept with a clean visual identity foc
   <img src="./profile/top-langs.svg" alt="Suraj Kumar's Most Used Languages" width="48%" />
 </p>
 
+<div align="center">
+
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajkumar9113)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-331a58349)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://surajkumar9113.github.io/suraj-portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajyadav5557@gmail.com)
+<a href="https://github.com/surajkumar9113">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/suraj-kumar-331a58349/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://surajkumar9113.github.io/suraj-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:surajyadav5557@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-<br/>
-
+</div>
 <div align="center">
 
 **Thanks for visiting my profile! Let's build something amazing together.** 🚀
