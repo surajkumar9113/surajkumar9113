@@ -279,6 +279,13 @@ A modern technology and education brand concept with a clean visual identity foc
 
 <br/>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Suraj Kumar's GitHub Stats" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Suraj Kumar's Most Used Languages" width="48%" />
+</p>
+
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajkumar9113)
