@@ -4,14 +4,14 @@
 
 ### Junior Front-End Developer
 
-I build responsive, user-focused web interfaces with clean and maintainable code. Skilled in HTML, CSS, JavaScript, and React.js, I focus on modern UI/UX principles to turn designs into functional, real-world web applications.
+I build responsive, user-focused web interfaces with clean and maintainable code. Skilled in HTML, CSS, JavaScript, React.js, PHP, and MySQL, I focus on modern UI/UX principles to turn ideas and designs into functional, real-world web applications.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([GitHub URL])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedIn URL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([Portfolio URL])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Email])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajkumar9113)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-331a58349)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://surajkumar9113.github.io/suraj-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajyadav5557@gmail.com)
 
 </div>
 
@@ -19,7 +19,9 @@ I build responsive, user-focused web interfaces with clean and maintainable code
 
 ## 📌 About Me
 
-I'm a Junior Front-End Developer focused on building responsive and user-friendly web interfaces. I'm comfortable working with HTML, CSS, and JavaScript, and I'm actively growing my skills in React.js to build dynamic, component-based applications. I enjoy working with APIs to build real-world features and I'm continuously sharpening my problem-solving and development skills through hands-on projects.
+I'm a Junior Front-End Developer focused on building responsive and user-friendly web interfaces. I'm comfortable working with HTML, CSS, and JavaScript, and I'm actively growing my skills in React.js to build dynamic, component-based applications.
+
+I enjoy working with APIs, creating real-world projects, improving UI/UX, and continuously sharpening my problem-solving and development skills through hands-on experience.
 
 <br/>
 
@@ -54,7 +56,9 @@ I'm a Junior Front-End Developer focused on building responsive and user-friendl
 <table>
 <tr>
 <td width="50%">
+
 <img src="./assets/projects/netflix.png" alt="Netflix Landing Page UI Clone screenshot" width="100%"/>
+
 </td>
 <td width="50%">
 
@@ -72,21 +76,23 @@ A modern Netflix-inspired streaming landing page with a cinematic hero section, 
 - Modern dark UI
 - CTA sections
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)]([GitHub URL])
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)]([Live Demo URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/netflix-frontend-clone/)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<img src="./assets/projects/poetfolio.png" alt="Personal developer portfolio website screenshot" width="100%"/>
+
+<img src="./assets/projects/portfolio.png" alt="Personal developer portfolio website screenshot" width="100%"/>
+
 </td>
 <td width="50%">
 
 ### Personal Portfolio Website
 
-A personal developer portfolio website showcasing profile information, technical skills, experience, education, projects and contact information.
+A professional personal portfolio website showcasing my profile, technical skills, projects, experience, education, and contact information.
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
@@ -100,21 +106,23 @@ A personal developer portfolio website showcasing profile information, technical
 - Contact section
 - Responsive design
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)]([GitHub URL])
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)]([Live Demo URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/suraj-portfolio/)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%">
+
 <img src="./assets/projects/sundown-studio.jpeg" alt="Sundown Studio creative agency website screenshot" width="100%"/>
+
 </td>
 <td width="50%">
 
 ### Sundown Studio Website
 
-A visually focused creative studio website inspired by modern agency websites, using bold typography, large layouts and interactive visual sections.
+A visually focused creative studio website inspired by modern agency websites, using bold typography, large layouts, and creative visual sections.
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
@@ -126,21 +134,23 @@ A visually focused creative studio website inspired by modern agency websites, u
 - Responsive design
 - Visual storytelling
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)]([GitHub URL])
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)]([Live Demo URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/Sundown-Studio/)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%">
+
 <img src="./assets/projects/sidcup-golf.jpeg" alt="Sidcup Family Golf website screenshot" width="100%"/>
+
 </td>
 <td width="50%">
 
 ### Sidcup Family Golf Website
 
-A modern golf and entertainment website featuring promotional sections, services, images, testimonials and navigation.
+A modern golf and entertainment website featuring promotional sections, services, images, testimonials, and navigation.
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
@@ -154,15 +164,17 @@ A modern golf and entertainment website featuring promotional sections, services
 - Footer navigation
 - Responsive layout
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)]([GitHub URL])
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)]([Live Demo URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/sidcup-golf-family/)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<img src="./assets/projects/goku.png" alt="Goku Saiyan Warrior anime-inspired landing page screenshot" width="100%"/>
+
+<img src="./assets/projects/goku.png" alt="Goku Saiyan Warrior landing page screenshot" width="100%"/>
+
 </td>
 <td width="50%">
 
@@ -180,21 +192,22 @@ A cinematic anime-inspired landing page featuring a powerful visual hero section
 - Visual effects
 - Responsive design
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)]([GitHub URL])
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)]([Live Demo URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%">
+
 <img src="./assets/projects/weather-app.png" alt="Weather application screenshot" width="100%"/>
+
 </td>
 <td width="50%">
 
 ### Weather App
 
-A weather application that allows users to search for a location and view weather information including temperature, humidity, wind speed and weather conditions.
+A weather application that allows users to search for a location and view weather information including temperature, humidity, wind speed, and weather conditions.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, REST API
 
@@ -207,21 +220,23 @@ A weather application that allows users to search for a location and view weathe
 - Weather condition
 - Dynamic UI
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)]([GitHub URL])
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)]([Live Demo URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/Weather-Application/)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<img src="./assets/projects/codex.png" alt="Codex Institute brand concept screenshot" width="100%"/>
+
+<img src="./assets/projects/codex.png" alt="Codex Institute website screenshot" width="100%"/>
+
 </td>
 <td width="50%">
 
 ### Codex Institute
 
-A modern technology/education brand concept with a clean visual identity focused on coding and technology.
+A modern technology and education brand concept with a clean visual identity focused on coding and technology.
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
@@ -231,11 +246,12 @@ A modern technology/education brand concept with a clean visual identity focused
 - Responsive design
 - Clean visual presentation
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)]([GitHub URL])
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)]([Live Demo URL])
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/Codex/)
 
 </td>
 </tr>
+
 </table>
 
 <br/>
@@ -244,13 +260,13 @@ A modern technology/education brand concept with a clean visual identity focused
 
 | Project | Tech Stack | Type | Demo |
 |---|---|---|---|
-| Netflix Landing Page | HTML5, CSS3, JavaScript | Streaming UI Clone | [Live Demo URL] |
-| Personal Portfolio Website | HTML5, CSS3, JavaScript | Portfolio | [Live Demo URL] |
-| Sundown Studio Website | HTML5, CSS3, JavaScript | Creative Agency | [Live Demo URL] |
-| Sidcup Family Golf Website | HTML5, CSS3, JavaScript | Business Website | [Live Demo URL] |
-| Goku / Saiyan Warrior Landing Page | HTML5, CSS3, JavaScript | Landing Page | [Live Demo URL] |
-| Weather App | HTML5, CSS3, JavaScript, REST API | Web App | [Live Demo URL] |
-| Codex Institute | HTML5, CSS3, JavaScript | Brand Concept | [Live Demo URL] |
+| Netflix Landing Page | HTML5, CSS3, JavaScript | Streaming UI Clone | [Live Demo](https://surajkumar9113.github.io/netflix-frontend-clone/) |
+| Personal Portfolio Website | HTML5, CSS3, JavaScript | Portfolio | [Live Demo](https://surajkumar9113.github.io/suraj-portfolio/) |
+| Sundown Studio Website | HTML5, CSS3, JavaScript | Creative Agency | [Live Demo](https://surajkumar9113.github.io/Sundown-Studio/) |
+| Sidcup Family Golf Website | HTML5, CSS3, JavaScript | Business Website | [Live Demo](https://surajkumar9113.github.io/sidcup-golf-family/) |
+| Goku / Saiyan Warrior Landing Page | HTML5, CSS3, JavaScript | Landing Page | — |
+| Weather App | HTML5, CSS3, JavaScript, REST API | Web App | [Live Demo](https://surajkumar9113.github.io/Weather-Application/) |
+| Codex Institute | HTML5, CSS3, JavaScript | Brand Concept | [Live Demo](https://surajkumar9113.github.io/Codex/) |
 
 <br/>
 
@@ -271,6 +287,7 @@ A modern technology/education brand concept with a clean visual identity focused
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=surajkumar9113&show_icons=true&theme=default&hide_border=true" alt="Suraj Kumar's GitHub stats" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkumar9113&hide_border=true" alt="Suraj Kumar's GitHub streak stats" width="48%"/>
 
 <br/>
@@ -295,16 +312,16 @@ A modern technology/education brand concept with a clean visual identity focused
 
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([GitHub URL])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedIn URL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([Portfolio URL])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Email])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajkumar9113)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-331a58349)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://surajkumar9113.github.io/suraj-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajyadav5557@gmail.com)
 
 <br/>
 
 <div align="center">
 
-**Thanks for visiting my profile! Let's build something amazing together.**
+**Thanks for visiting my profile! Let's build something amazing together.** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=surajkumar9113&color=blue&style=flat-square)
 
