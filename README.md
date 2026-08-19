@@ -85,8 +85,9 @@ A modern Netflix-inspired streaming landing page with a cinematic hero section, 
 <tr>
 <td width="50%">
 
-<img src="./assets/projects/portfolio.png" alt="Personal developer portfolio website screenshot" width="100%"/>
-
+<a href="https://surajkumar9113.github.io/suraj-portfolio/" target="_blank">
+  <img src="./assets/projects/portfolio.png" alt="Personal Portfolio Website" width="100%">
+</a>
 </td>
 <td width="50%">
 
