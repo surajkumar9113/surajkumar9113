@@ -116,8 +116,7 @@ A professional personal portfolio website showcasing my profile, technical skill
 <tr>
 <td width="50%">
 
-<img src="./assets/projects/sundown-studio.jpeg" alt="Sundown Studio creative agency website screenshot" width="100%"/>
-
+<img src="./assets/projects/sundown.png" alt="Sundown Studio creative agency website screenshot" width="100%"/>
 </td>
 <td width="50%">
 
@@ -144,8 +143,7 @@ A visually focused creative studio website inspired by modern agency websites, u
 <tr>
 <td width="50%">
 
-<img src="./assets/projects/sidcup-golf.jpeg" alt="Sidcup Family Golf website screenshot" width="100%"/>
-
+<img src="./assets/projects/sidcup.png" alt="Sidcup Family Golf website screenshot" width="100%"/>
 </td>
 <td width="50%">
 
@@ -201,8 +199,7 @@ A cinematic anime-inspired landing page featuring a powerful visual hero section
 <tr>
 <td width="50%">
 
-<img src="./assets/projects/weather-app.png" alt="Weather application screenshot" width="100%"/>
-
+<img src="./assets/projects/weather.png" alt="Weather application screenshot" width="100%"/>
 </td>
 <td width="50%">
 
