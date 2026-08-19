@@ -86,17 +86,16 @@ A modern Netflix-inspired streaming landing page with a cinematic hero section, 
 <td width="50%">
 
 <a href="https://surajkumar9113.github.io/suraj-portfolio/" target="_blank">
-  <img src="./assets/projects/portfolio.png" alt="Personal Portfolio Website" width="100%">
-</a>
+<img src="./assets/projects/portfolio.png" alt="Personal Portfolio Website Screenshot" width="100%"></a>
 </td>
 <td width="50%">
 
+5, CSS3, JavaScript
 ### Personal Portfolio Website
 
 A professional personal portfolio website showcasing my profile, technical skills, projects, experience, education, and contact information.
 
-**Tech Stack:** HTML5, CSS3, JavaScript
-
+**Tech Stack:** HTML
 **Key Features:**
 - Developer introduction
 - About section
