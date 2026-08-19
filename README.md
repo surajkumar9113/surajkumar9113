@@ -1,17 +1,40 @@
 <div align="center">
 
-# 👋 Hi, I'm Suraj Kumar
+# 👨‍💻 Suraj Kumar
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=2500&pause=1000&color=111111&center=true&vCenter=true&width=500&lines=Junior+Front-End+Developer;React.js+Developer;JavaScript+Developer;UI+Developer;Frontend+Developer"
+    alt="Typing SVG"
+  />
+</p>
 
-### Junior Front-End Developer
+<p>
+I build responsive, user-focused web interfaces with clean and maintainable code.
+Skilled in HTML, CSS, JavaScript, React.js, PHP, and MySQL.
+I focus on modern UI/UX principles to turn ideas and designs into functional,
+real-world web applications.
+</p>
 
-I build responsive, user-focused web interfaces with clean and maintainable code. Skilled in HTML, CSS, JavaScript, React.js, PHP, and MySQL, I focus on modern UI/UX principles to turn ideas and designs into functional, real-world web applications.
+</div>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajkumar9113)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-331a58349)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://surajkumar9113.github.io/suraj-portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajyadav5557@gmail.com)
+<p align="center">
+  <a href="https://github.com/surajkumar9113">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://www.linkedin.com/in/suraj-kumar-331a58349/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://surajkumar9113.github.io/suraj-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+
+  <a href="mailto:surajyadav5557@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 </div>
 
