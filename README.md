@@ -17,11 +17,17 @@ I build responsive, user-focused web interfaces with clean and maintainable code
 
 <br/>
 
-## 📌 About Me
+## 📱 About Me
 
-I'm a Junior Front-End Developer focused on building responsive and user-friendly web interfaces. I'm comfortable working with HTML, CSS, and JavaScript, and I'm actively growing my skills in React.js to build dynamic, component-based applications.
+Junior Front-End Developer focused on building
+responsive, user-friendly and modern interfaces.
 
-I enjoy working with APIs, creating real-world projects, improving UI/UX, and continuously sharpening my problem-solving and development skills through hands-on experience.
+```javascript
+const developer = {
+  name: "Suraj Kumar",
+  role: "Front-End Developer",
+  skills: ["HTML", "CSS", "JavaScript", "React"]
+};
 
 <br/>
 
