@@ -279,34 +279,6 @@ A modern technology and education brand concept with a clean visual identity foc
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=surajkumar9113&show_icons=true&theme=default&hide_border=true" alt="Suraj Kumar's GitHub stats" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkumar9113&hide_border=true" alt="Suraj Kumar's GitHub streak stats" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumar9113&layout=compact&hide_border=true" alt="Suraj Kumar's most used languages" width="48%"/>
-
-</div>
-
-<br/>
-
-## 💡 What I Bring
-
-- Responsive UI development
-- Clean, maintainable code
-- Strong problem-solving approach
-- Attention to UI detail
-- Continuous learning mindset
-- Effective team collaboration
-- Practical, real-world project experience
-
-<br/>
-
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajkumar9113)
