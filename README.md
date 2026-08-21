@@ -346,3 +346,11 @@ and modern web layouts.**
 ![Profile Views](https://komarev.com/ghpvc/?username=surajkumar9113&color=blue&style=flat-square)
 
 </div>
+<h2>🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
