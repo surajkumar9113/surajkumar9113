@@ -339,13 +339,6 @@ and modern web layouts.**
 </a>
 
 </div>
-<div align="center">
-
-**Thanks for visiting my profile! Let's build something amazing together.** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=surajkumar9113&color=blue&style=flat-square)
-
-</div>
 <h2>🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
@@ -354,3 +347,11 @@ and modern web layouts.**
     alt="GitHub Contribution Snake"
   />
 </p>
+<div align="center">
+
+**Thanks for visiting my profile! Let's build something amazing together.** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=surajkumar9113&color=blue&style=flat-square)
+
+</div>
+
