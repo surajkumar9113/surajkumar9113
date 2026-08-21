@@ -1,11 +1,13 @@
 <div align="center">
 
 # 👨‍💻 Suraj Kumar
+<b>
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=2500&pause=1000&color=111111&center=true&vCenter=true&width=500&lines=Junior+Front-End+Developer;React.js+Developer;JavaScript+Developer;UI+Developer;Frontend+Developer"
     alt="Typing SVG"
   />
 </p>
+</b>
 
 <p>
 I build responsive, user-focused web interfaces with clean and maintainable code.
