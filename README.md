@@ -41,7 +41,7 @@ I transform ideas and designs into <strong>functional, scalable, and real-world 
 </div>
 
 <br/>
-  
+    
 ## 📱 About Me
 
 I'm a **Front-End Developer** focused on building responsive,
@@ -334,7 +334,8 @@ A modern technology and education brand concept with a clean visual identity foc
 </table>
 
 <br/>
-
+<div align="center">
+  
 ## 📋 Featured Projects
 
 A curated selection of frontend projects showcasing my experience in
@@ -351,22 +352,54 @@ interactive UI, and modern web development.**
 | **Weather Application** | HTML5, CSS3, JavaScript, REST API | API-Based Web App | [View Demo](https://surajkumar9113.github.io/Weather-Application/) |
 | **Codex Institute** | HTML5, CSS3, JavaScript | Educational Website | [View Demo](https://surajkumar9113.github.io/Codex/) |
 
+</div>
 <br/>
+<div align="center">
+  
+## 🚀 Currently Learning
 
-## 🚀Currently Learning
+<table width="100%">
+  <tr>
+    <th width="20%">Technology</th>
+    <th width="40%">Focus</th>
+    <th width="40%">Learning Resource</th>
+  </tr>
 
-| Technology | Focus |
-|---|---|
-| **React.js** | Component-based frontend development |
-| **PHP**  | Backend and server-side development |
-| **Microsoft Excel** | Data management and productivity |
-| **REST APIs** | API integration and dynamic data handling |
-| **Modern UI/UX** | Responsive and user-focused interfaces |
+  <tr>
+    <td><b>React.js</b></td>
+    <td>Component-based frontend development</td>
+    <td><a href="https://react.dev/learn">React Official Docs</a></td>
+  </tr>
 
-<br/>
+  <tr>
+    <td><b>PHP</b></td>
+    <td>Backend and server-side development</td>
+    <td><a href="https://www.php.net/docs.php">PHP Official Documentation</a></td>
+  </tr>
 
+  <tr>
+    <td><b>Microsoft Excel</b></td>
+    <td>Data management and productivity</td>
+    <td><a href="https://support.microsoft.com/excel">Microsoft Excel Support</a></td>
+  </tr>
+
+  <tr>
+    <td><b>REST APIs</b></td>
+    <td>API integration and dynamic data handling</td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview">MDN Web Docs</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Modern UI/UX</b></td>
+    <td>Responsive and user-focused interfaces</td>
+    <td><a href="https://www.figma.com/resources/learn-design/">Figma Design Resources</a></td>
+  </tr>
+</table>
+<div align="center">
+  
 ## 📊 GitHub Stats
 
+</div>
 <p align="center">
   <img
     src="./profile/stats.svg"
@@ -400,8 +433,9 @@ interactive UI, and modern web development.**
 </a>
 
 </div>
+<div align="center">
 <h2>🐍 Snake Contribution </h2>
-
+</div>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/output/github-contribution-grid-snake.svg"
