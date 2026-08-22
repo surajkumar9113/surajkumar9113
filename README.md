@@ -314,7 +314,7 @@ and modern web layouts.**
 - 🧩 **Modern UI Development** — Building responsive interfaces
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="./profile/stats.svg" alt="Suraj Kumar's GitHub Stats" width="48%" />
