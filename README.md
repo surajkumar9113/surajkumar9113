@@ -87,6 +87,7 @@ const developer = {
 
 </div>
 <br/>
+
 ## 💼 Featured Projects
 
 <table>
@@ -359,16 +360,19 @@ and modern web layouts.**
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=surajkumar9113&show_icons=true&hide_border=true"
-    alt="Suraj Kumar GitHub Stats"
-    height="180"
+    src="./profile/stats.svg"
+    alt="Suraj Kumar's GitHub Stats"
+      width="49%"
+      height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumar9113&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-    height="180"
+    src="./profile/top-langs.svg"
+    alt="Suraj Kumar's Most Used Languages"
+     width="49%"
+     height="180"
   />
 </p>
+
 <div align="center">
 
 ## 📫 Let's Connect
