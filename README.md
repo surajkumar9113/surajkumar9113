@@ -44,18 +44,21 @@ real-world web applications.
 
 ## 📱 About Me
 
-Front-End Developer focused on building  
-responsive, user-friendly and modern interfaces.
+**Front-End Developer** focused on creating responsive, accessible, and
+high-performance web applications. I enjoy turning ideas into intuitive
+digital experiences using modern web technologies.
 
 ```javascript
 const developer = {
   name: "Suraj Kumar",
   role: "Front-End Developer",
-  skills: ["HTML", "CSS", "JavaScript", "React", "PHP"]
+  stack: ["HTML5", "CSS3", "JavaScript", "React.js", "Bootstrap"],
+  backend: ["PHP", "MySQL"],
+  focus: ["UI/UX", "Responsive Design", "REST APIs", "Clean Code"],
+  goal: "Build impactful and user-focused web experiences"
 };
 ```
 <br/>
-
 <div align="center">
 
 ## 🛠️ Technical Skills
