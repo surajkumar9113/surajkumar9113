@@ -227,17 +227,8 @@ A cinematic anime-inspired landing page featuring a powerful visual hero section
 - Visual effects
 - Responsive design
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/Son-Goku-Saiyan-Warrior) [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="./assets/projects/weather.png" alt="Weather application screenshot" width="100%"/>
-</td>
-<td width="50%">
 
 ### Weather App
 
@@ -302,7 +293,7 @@ and modern web layouts.**
 | 👨‍💻 **Personal Portfolio** | HTML5, CSS3, JavaScript | Portfolio | [View Demo](https://surajkumar9113.github.io/suraj-portfolio/) |
 | 🌅 **Sundown Studio** | HTML5, CSS3, JavaScript | Creative UI | [View Demo](https://surajkumar9113.github.io/Sundown-Studio/) |
 | ⛳ **Sidcup Family Golf** | HTML5, CSS3, JavaScript | Business UI | [View Demo](https://surajkumar9113.github.io/sidcup-golf-family/) |
-| 🐉 **Saiyan Warrior** | HTML5, CSS3, JavaScript | Interactive UI | — |
+| 🐉 **Saiyan Warrior** | HTML5, CSS3, JavaScript | Interactive UI | [View Demo](https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/) |
 | 🌦️ **Weather Application** | HTML5, CSS3, JavaScript, REST API | Web Application | [View Demo](https://surajkumar9113.github.io/Weather-Application/) |
 | 💻 **Codex Institute** | HTML5, CSS3, JavaScript | Educational UI | [View Demo](https://surajkumar9113.github.io/Codex/) |
 
