@@ -10,10 +10,10 @@
 </b>
 
 <p>
-I build responsive, user-focused web interfaces with clean and maintainable code.
-Skilled in HTML, CSS, JavaScript, React.js, PHP, and MySQL.
-I focus on modern UI/UX principles to turn ideas and designs into functional,
-real-world web applications.
+I build responsive and user-focused web interfaces using clean, maintainable code.
+Skilled in <strong>HTML5, CSS3, JavaScript, React.js, PHP, and MySQL</strong>,
+with a strong focus on modern UI/UX, responsive design, and seamless user experiences.
+I transform ideas and designs into <strong>functional, scalable, and real-world web applications</strong>.
 </p>
 
 </div>
@@ -41,12 +41,17 @@ real-world web applications.
 </div>
 
 <br/>
-
+  
 ## 📱 About Me
 
-**Front-End Developer** focused on creating responsive, accessible, and
-high-performance web applications. I enjoy turning ideas into intuitive
-digital experiences using modern web technologies.
+I'm a **Front-End Developer** focused on building responsive,
+accessible, and user-friendly web applications.
+
+I work with **HTML5, CSS3, JavaScript, React.js, Bootstrap, PHP, and REST APIs**, 
+with a strong interest in modern UI/UX and writing clean, maintainable code.
+
+Currently, I'm strengthening my skills in **React.js, Advanced JavaScript,
+API Integration, and Responsive Web Development**.
 
 ```javascript
 const developer = {
@@ -58,6 +63,7 @@ const developer = {
   goal: "Build impactful and user-focused web experiences"
 };
 ```
+
 <br/>
 <div align="center">
 
@@ -331,29 +337,32 @@ A modern technology and education brand concept with a clean visual identity foc
 
 ## 📋 Featured Projects
 
-A selection of frontend projects demonstrating my experience with
-**responsive design, JavaScript interactions, API integration, UI development,
-and modern web layouts.**
+A curated selection of frontend projects showcasing my experience in
+**responsive web design, JavaScript development, API integration,
+interactive UI, and modern web development.**
 
-| Project | Technologies | Category | Live Demo |
+| Project | Tech Stack | Focus | Live Demo |
 |---|---|---|---|
-| 🎬 **Netflix Landing Page** | HTML5, CSS3, JavaScript | Streaming UI | [View Demo](https://surajkumar9113.github.io/netflix-frontend-clone/) |
-| 👨‍💻 **Personal Portfolio** | HTML5, CSS3, JavaScript | Portfolio | [View Demo](https://surajkumar9113.github.io/suraj-portfolio/) |
-| 🌅 **Sundown Studio** | HTML5, CSS3, JavaScript | Creative UI | [View Demo](https://surajkumar9113.github.io/Sundown-Studio/) |
-| ⛳ **Sidcup Family Golf** | HTML5, CSS3, JavaScript | Business UI | [View Demo](https://surajkumar9113.github.io/sidcup-golf-family/) |
-| 🐉 **Saiyan Warrior** | HTML5, CSS3, JavaScript | Interactive UI | [View Demo](https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/) |
-| 🌦️ **Weather Application** | HTML5, CSS3, JavaScript, REST API | Web Application | [View Demo](https://surajkumar9113.github.io/Weather-Application/) |
-| 💻 **Codex Institute** | HTML5, CSS3, JavaScript | Educational UI | [View Demo](https://surajkumar9113.github.io/Codex/) |
+| **Netflix Landing Page** | HTML5, CSS3, JavaScript | Streaming UI | [View Demo](https://surajkumar9113.github.io/netflix-frontend-clone/) |
+| **Personal Portfolio** | HTML5, CSS3, JavaScript | Portfolio Website | [View Demo](https://surajkumar9113.github.io/suraj-portfolio/) |
+| **Sundown Studio** | HTML5, CSS3, JavaScript | Creative Web UI | [View Demo](https://surajkumar9113.github.io/Sundown-Studio/) |
+| **Sidcup Family Golf** | HTML5, CSS3, JavaScript | Business Website | [View Demo](https://surajkumar9113.github.io/sidcup-golf-family/) |
+| **Saiyan Warrior** | HTML5, CSS3, JavaScript | Interactive Landing Page | [View Demo](https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/) |
+| **Weather Application** | HTML5, CSS3, JavaScript, REST API | API-Based Web App | [View Demo](https://surajkumar9113.github.io/Weather-Application/) |
+| **Codex Institute** | HTML5, CSS3, JavaScript | Educational Website | [View Demo](https://surajkumar9113.github.io/Codex/) |
 
 <br/>
 
-## 🚀 Currently Learning
+## 🚀Currently Learning
 
-- ⚛️ **React.js** — Component-based frontend development
-- 🐘 **PHP** — Backend development & server-side programming
-- 📊 **Microsoft Excel** — Data handling & productivity
-- 🔗 **API Integration** — Working with REST APIs
-- 🧩 **Modern UI Development** — Building responsive interfaces
+| Technology | Focus |
+|---|---|
+| **React.js** | Component-based frontend development |
+| **PHP**  | Backend and server-side development |
+| **Microsoft Excel** | Data management and productivity |
+| **REST APIs** | API integration and dynamic data handling |
+| **Modern UI/UX** | Responsive and user-focused interfaces |
+
 <br/>
 
 ## 📊 GitHub Stats
