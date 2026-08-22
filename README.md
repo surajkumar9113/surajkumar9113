@@ -339,7 +339,7 @@ and modern web layouts.**
 </a>
 
 </div>
-<h2>🐍 GitHub Contribution Snake</h2>
+<h2>🐍 Snake Contribution </h2>
 
 <p align="center">
   <img
