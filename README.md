@@ -87,19 +87,22 @@ const developer = {
 
 </div>
 <br/>
-
 ## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-<img src="./assets/projects/netflix.png" alt="Netflix Landing Page UI Clone screenshot" width="100%"/>
+<td width="50%" valign="top">
+
+<a href="https://surajkumar9113.github.io/netflix-frontend-clone/">
+<img src="./assets/projects/netflix.png" alt="Netflix Landing Page UI Clone screenshot" width="100%">
+</a>
 
 </td>
-<td width="50%">
 
-### Netflix Landing Page / Netflix UI Clone
+<td width="50%" valign="top">
+
+### 🎬 Netflix Landing Page / Netflix UI Clone
 
 A modern Netflix-inspired streaming landing page with a cinematic hero section, trending content, subscription plans, and responsive layout.
 
@@ -113,26 +116,31 @@ A modern Netflix-inspired streaming landing page with a cinematic hero section, 
 - Modern dark UI
 - CTA sections
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/netflix-frontend-clone/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/netflix-frontend-clone)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/netflix-frontend-clone/)
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-<a href="https://surajkumar9113.github.io/suraj-portfolio/" target="_blank">
-<img src="./assets/projects/portfolio1.png" alt="Personal Portfolio Website Screenshot" width="100%"></a>
+<td width="50%" valign="top">
+
+<a href="https://surajkumar9113.github.io/suraj-portfolio/">
+<img src="./assets/projects/portfolio1.png" alt="Personal Portfolio Website Screenshot" width="100%">
+</a>
+
 </td>
-<td width="50%">
 
-5, CSS3, JavaScript
-### Personal Portfolio Website
+<td width="50%" valign="top">
+
+### 👨‍💻 Personal Portfolio Website
 
 A professional personal portfolio website showcasing my profile, technical skills, projects, experience, education, and contact information.
 
-**Tech Stack:** HTML
+**Tech Stack:** HTML5, CSS3, JavaScript
+
 **Key Features:**
 - Developer introduction
 - About section
@@ -143,20 +151,26 @@ A professional personal portfolio website showcasing my profile, technical skill
 - Contact section
 - Responsive design
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/suraj-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/suraj-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/suraj-portfolio/)
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-<img src="./assets/projects/sundown.png" alt="Sundown Studio creative agency website screenshot" width="100%"/>
+<td width="50%" valign="top">
+
+<a href="https://surajkumar9113.github.io/Sundown-Studio/">
+<img src="./assets/projects/sundown.png" alt="Sundown Studio creative agency website screenshot" width="100%">
+</a>
+
 </td>
-<td width="50%">
 
-### Sundown Studio Website
+<td width="50%" valign="top">
+
+### 🌅 Sundown Studio Website
 
 A visually focused creative studio website inspired by modern agency websites, using bold typography, large layouts, and creative visual sections.
 
@@ -170,20 +184,26 @@ A visually focused creative studio website inspired by modern agency websites, u
 - Responsive design
 - Visual storytelling
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/Sundown-Studio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/Sundown-Studio)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/Sundown-Studio/)
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-<img src="./assets/projects/sidcup.png" alt="Sidcup Family Golf website screenshot" width="100%"/>
+<td width="50%" valign="top">
+
+<a href="https://surajkumar9113.github.io/sidcup-golf-family/">
+<img src="./assets/projects/sidcup.png" alt="Sidcup Family Golf website screenshot" width="100%">
+</a>
+
 </td>
-<td width="50%">
 
-### Sidcup Family Golf Website
+<td width="50%" valign="top">
+
+### ⛳ Sidcup Family Golf Website
 
 A modern golf and entertainment website featuring promotional sections, services, images, testimonials, and navigation.
 
@@ -199,21 +219,26 @@ A modern golf and entertainment website featuring promotional sections, services
 - Footer navigation
 - Responsive layout
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/sidcup-golf-family/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/sidcup-golf-family)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/sidcup-golf-family/)
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-<img src="./assets/projects/goku.png" alt="Goku Saiyan Warrior landing page screenshot" width="100%"/>
+<td width="50%" valign="top">
+
+<a href="https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/">
+<img src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/goku.png" alt="Goku Saiyan Warrior" width="100%">
+</a>
 
 </td>
-<td width="50%">
 
-### Goku / Saiyan Warrior Landing Page
+<td width="50%" valign="top">
+
+### 🐉 Goku / Saiyan Warrior Landing Page
 
 A cinematic anime-inspired landing page featuring a powerful visual hero section and modern presentation.
 
@@ -227,10 +252,26 @@ A cinematic anime-inspired landing page featuring a powerful visual hero section
 - Visual effects
 - Responsive design
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/Son-Goku-Saiyan-Warrior) [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/Son-Goku-Saiyan-Warrior)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/Son-Goku-Saiyan-Warrior/)
 
+</td>
 
-### Weather App
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://surajkumar9113.github.io/Weather-Application/">
+<img src="https://raw.githubusercontent.com/surajkumar9113/surajkumar9113/main/assets/projects/weather.png" alt="Weather App" width="100%">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather App
 
 A weather application that allows users to search for a location and view weather information including temperature, humidity, wind speed, and weather conditions.
 
@@ -245,21 +286,26 @@ A weather application that allows users to search for a location and view weathe
 - Weather condition
 - Dynamic UI
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/Weather-Application/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/Weather-Application)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/Weather-Application/)
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-<img src="./assets/projects/codex.png" alt="Codex Institute website screenshot" width="100%"/>
+<td width="50%" valign="top">
+
+<a href="https://surajkumar9113.github.io/Codex/">
+<img src="./assets/projects/codex.png" alt="Codex Institute website screenshot" width="100%">
+</a>
 
 </td>
-<td width="50%">
 
-### Codex Institute
+<td width="50%" valign="top">
+
+### 💻 Codex Institute
 
 A modern technology and education brand concept with a clean visual identity focused on coding and technology.
 
@@ -271,10 +317,11 @@ A modern technology and education brand concept with a clean visual identity foc
 - Responsive design
 - Clean visual presentation
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://surajkumar9113.github.io/Codex/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/surajkumar9113/Codex)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://surajkumar9113.github.io/Codex/)
 
 </td>
+
 </tr>
 
 </table>
@@ -308,13 +355,20 @@ and modern web layouts.**
 - 🧩 **Modern UI Development** — Building responsive interfaces
 <br/>
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Suraj Kumar's GitHub Stats" width="48%" />
-  <img src="./profile/top-langs.svg" alt="Suraj Kumar's Most Used Languages" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=surajkumar9113&show_icons=true&hide_border=true"
+    alt="Suraj Kumar GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumar9113&layout=compact&hide_border=true"
+    alt="Most Used Languages"
+    height="180"
+  />
 </p>
-
 <div align="center">
 
 ## 📫 Let's Connect
@@ -348,4 +402,5 @@ and modern web layouts.**
 ![Profile Views](https://komarev.com/ghpvc/?username=surajkumar9113&color=blue&style=flat-square)
 
 </div>
+
 
